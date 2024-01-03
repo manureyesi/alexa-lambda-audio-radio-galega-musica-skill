@@ -1,7 +1,13 @@
-# Back code for a simple audio skill using Kotlin and AWS Lambda
+# Backend para la aplicación de Radio Galega Música
 
-(Spanish) [Post](https://www.kinisoftware.com/alexa-skill-audio-facil-kotlin/) & [Video](https://www.youtube.com/watch?v=Tgxtw4luJrg&t) with steps to create a basic audio skill using this project's code
+Backend para la skill de alexa de Radio Galega Música usando Kotlin y AWS Lambda.
 
-Compilar con Jar dentro
+## Despliegues en AWS
+
+
+
+## Como complicar 
+
+Compilar con dependencias dentro
 
 ./gradlew build shadowJar
